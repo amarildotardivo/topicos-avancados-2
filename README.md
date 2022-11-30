@@ -1,5 +1,7 @@
 # Disciplina Tópicos Avançados II
-### Disciplina voltada ao aprendizado de testes
+## Disciplina voltada ao aprendizado de testes
+
+### Configurando ambiente
 
  - npm init -y
 
