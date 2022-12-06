@@ -7,7 +7,7 @@
 
 <br/>
 
- - npm i -D typescritp @types/node
+ - npm i -D typescript @types/node
 
  - npm install typescript
 
