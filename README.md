@@ -1,5 +1,5 @@
 # Disciplina Tópicos Avançados II
-## Disciplina voltada ao aprendizado de testes
+## Disciplina voltada ao desenvolvimento orientado a testes
 
 ### Configurando ambiente
 
